@@ -131,3 +131,6 @@ dmypy.json
 
 # vscode
 .vscode/
+
+# credentials
+secrets_reddit.py
