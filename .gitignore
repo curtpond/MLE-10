@@ -128,9 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-# vscode
-.vscode/
-
-# Do not include credentials
-secrets_reddit.py
+# Mac DS_Store
+.DS_Store
